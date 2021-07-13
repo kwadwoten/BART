@@ -1,5 +1,5 @@
 # BART
-The Pørch's Bar of Light (BART) is an audio-visual sign that was designed, built, and programmed by Trenton Rhodes and Kwadwo Tenkorang. See the story of how BART came to be [here](https://wordpress.its.virginia.edu/TLP_TLC/2020/12/01/bart/).
+The Pørch's Bar of Light (BART) is an audio-visual sign that was designed, built, and programmed by Trenton Rhodes and Kwadwo Tenkorang. See the story of how BART came to be and how it works [here](https://wordpress.its.virginia.edu/TLP_TLC/2020/12/01/bart/).
 
 # Usage
 The working version of BART is in `BART_v1.2`. Simply plug in BART to turn it on. It will start in Wahoo mode. Clicking the button under BART will cycle through the following modes:
