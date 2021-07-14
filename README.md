@@ -14,9 +14,9 @@ This project was built in the arduino library. Install the following libraries t
 - FastLED
 
 # Electronic Hardware
-- Arduino UNO: <>
-- Microphone: <>
-- LEDs: <>
+- Microcontroller: [Arduino UNO](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?dchild=1&keywords=arduino+uno&qid=1626229232&sr=8-3)
+- Microphone: [Comidox 3Pcs](https://www.amazon.com/gp/product/B07J6N734S/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
+- LEDs: [BTF-LIGHTING WS2812B RGB](https://www.amazon.com/BTF-LIGHTING-60pixels-Individually-Addressable-Non-waterproof/dp/B01CDTED80/ref=sr_1_19?dchild=1&keywords=ws2812b&qid=1601686283&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-19)
 - Arduino Programming Cable: USB 2.0 CABLE TYPE A/B (same as most printer cables)
 - 5V Adapter 
 - Button
@@ -24,4 +24,14 @@ This project was built in the arduino library. Install the following libraries t
 # Schematic
 
 # Resources
+
+## Arduino LED Overview
+
+## FastLED
+
+## Fast Fourier Transform (FFT)
+
+## Microphones
+
+## Sample Projects
 
