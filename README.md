@@ -8,6 +8,8 @@ The working version of BART is in `BART_v1.2`. Simply plug in BART to turn it on
 3. Rainbow Road - Rainbow colors with a sparkle, reminiscent of the countless hours of Mario Kart we played
 4. Off - All lights turn off 
 
+![image](https://user-images.githubusercontent.com/70455560/127217520-4efcb097-05a2-439f-aefc-57f7c9d6159c.png)
+
 
 # Installation
 This project was built in the arduino library. Install the following libraries through the arduino IDE `Tools > Manage Libraries...`
