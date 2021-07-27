@@ -8,6 +8,7 @@ The working version of BART is in `BART_v1.2`. Simply plug in BART to turn it on
 3. Rainbow Road - Rainbow colors with a sparkle, reminiscent of the countless hours of Mario Kart we played
 4. Off - All lights turn off 
 
+
 # Installation
 This project was built in the arduino library. Install the following libraries through the arduino IDE `Tools > Manage Libraries...`
 - arduinoFFT
@@ -21,17 +22,51 @@ This project was built in the arduino library. Install the following libraries t
 - 5V Adapter 
 - Button
 
-# Schematic
+# Connections
+
+
+| Component | Arduino Pin |
+| --- | ----------- |
+| Button | D2 |
+| Top LED Data Line | D3 |
+| Bottom LED Data Line | D4 |
+| Microphone | A0 |
+
+
+
 
 # Resources
 
-## Arduino LED Overview
+### Arduino LED Overview
+<https://www.youtube.com/watch?v=5M24QUVE0iU>
 
-## FastLED
+<https://www.youtube.com/watch?v=WS6FI_NyRzs>
 
-## Fast Fourier Transform (FFT)
+<https://www.youtube.com/watch?v=YgII4UYW5hU>
 
-## Microphones
 
-## Sample Projects
+### FastLED
+<https://github.com/FastLED/FastLED/wiki/Pixel-reference>
+
+<https://github.com/FastLED/FastLED/wiki/Multiple-Controller-Examples#managing-your-own-output>
+
+<http://fastled.io/docs/3.1/struct_c_r_g_b.html>
+
+### Fast Fourier Transform (FFT)
+<https://create.arduino.cc/projecthub/shajeeb/32-band-audio-spectrum-visualizer-analyzer-902f51>
+
+<https://www.norwegiancreations.com/2017/08/what-is-fft-and-how-can-you-implement-it-on-an-arduino/>
+
+<https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/>
+
+<https://arduino.stackexchange.com/questions/12587/how-can-i-handle-the-millis-rollover>
+
+
+### Microphones
+<https://blog.yavilevich.com/2016/08/arduino-sound-level-meter-and-spectrum-analyzer/>
+
+### Sample Projects
+<https://create.arduino.cc/projecthub/buzzandy/music-reactive-led-strip-5645ed>
+<https://www.youtube.com/watch?v=bZZby3jp4KY>
+
 
